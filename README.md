@@ -2,7 +2,7 @@
 
 A festive, autumn-themed custom reporter for Playwright Test that brings the cozy warmth of pumpkin spice season to your test results!
 
-Inspired by the [pytest-pumpkin-spice](https://github.com/yourusername/pytest-pumpkin-spice) plugin, this reporter replaces boring test status indicators with delightful fall emojis and adds autumn colors to your test output.
+Inspired by the [pytest-pumpkin-spice](https://github.com/joshmgrant/pytest-pumpkin-spice) plugin, this reporter replaces boring test status indicators with delightful fall emojis and adds autumn colors to your test output.
 
 ## 🍂 Features
 
@@ -145,7 +145,7 @@ MIT License - Enjoy your testing with a side of pumpkin spice!
 
 ## 🙏 Acknowledgments
 
-- Inspired by [pytest-pumpkin-spice](https://github.com/yourusername/pytest-pumpkin-spice)
+- Inspired by [pytest-pumpkin-spice](https://github.com/joshmgrant/pytest-pumpkin-spice)
 - Built for the [Playwright Test](https://playwright.dev) framework
 - Created with love during pumpkin spice season 🍂
 
