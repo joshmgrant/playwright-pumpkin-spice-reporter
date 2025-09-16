@@ -21,7 +21,7 @@
     "emoji",
     "testing"
   ],
-  "author": "",
+  "author": "Josh Grant",
   "license": "MIT",
   "peerDependencies": {
     "@playwright/test": "^1.40.0"
@@ -37,6 +37,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/playwright-pumpkin-spice-reporter"
+    "url": "https://github.com/joshmgrant/playwright-pumpkin-spice-reporter"
   }
 }
