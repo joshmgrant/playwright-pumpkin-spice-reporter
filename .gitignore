@@ -1,0 +1,10 @@
+node_modules/
+dist/
+playwright-report/
+test-results/
+.DS_Store
+*.log
+.env
+coverage/
+.nyc_output/
+*.tsbuildinfo

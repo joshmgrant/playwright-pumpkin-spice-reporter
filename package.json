@@ -1,0 +1,42 @@
+{
+  "name": "playwright-pumpkin-spice-reporter",
+  "version": "1.0.0",
+  "description": "A festive autumn-themed Playwright test reporter with pumpkin spice emojis 🎃☕",
+  "main": "dist/pumpkin-spice-reporter.js",
+  "types": "dist/pumpkin-spice-reporter.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "playwright test",
+    "test:example": "playwright test --reporter=./dist/pumpkin-spice-reporter.js",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "playwright",
+    "reporter",
+    "test",
+    "pumpkin",
+    "spice",
+    "autumn",
+    "fall",
+    "emoji",
+    "testing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "peerDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.40.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/playwright-pumpkin-spice-reporter"
+  }
+}
